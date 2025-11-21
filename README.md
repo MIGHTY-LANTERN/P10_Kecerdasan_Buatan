@@ -1,6 +1,6 @@
 |       |                                   |
 | ----- | --------------------------------- |
-| Nama  | Muhammad Din Al Ayubi (312210293) |
+| Nama  | Ahmad yuda Ramadhan (312210650) |
 | Kelas | TI.22.A.SE.1                      |
 | Tugas | UTS Kecerdasan Buatan             |
 
@@ -137,7 +137,7 @@ plt.xlabel("Prediksi")
 plt.ylabel("Aktual")
 plt.title("Confusion Matrix - Random Forest")
 plt.show()
-@mdinalayubi
+@Ahmad
 ```
 
 Keterangan: Implementasi algoritma Random Forest, Gradient Boosting, dan mekanisme Voting menggunakan pustaka Scikit-Learn.
