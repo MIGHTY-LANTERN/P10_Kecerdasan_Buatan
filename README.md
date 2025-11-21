@@ -137,6 +137,7 @@ plt.xlabel("Prediksi")
 plt.ylabel("Aktual")
 plt.title("Confusion Matrix - Random Forest")
 plt.show()
+@mdinalayubi
 ```
 
 Keterangan: Implementasi algoritma Random Forest, Gradient Boosting, dan mekanisme Voting menggunakan pustaka Scikit-Learn.
