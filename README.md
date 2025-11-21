@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 |       |                                   |
 | ----- | --------------------------------- |
 | Nama  | Ahmad yuda Ramadhan (312210650) |
@@ -150,3 +151,6 @@ Berdasarkan pengujian pada 20% data uji, diperoleh hasil akurasi dan visualisasi
 
 ![gambar](foto/p10.1.png)
 ![gambar](foto/p10.png)
+=======
+# P10_Kecerdasan_Buatan
+>>>>>>> bf8fb7e4bfc90d9ce9fd096aa4217844ec9e3cfd
